@@ -1,0 +1,2 @@
+# gopack
+go packtest
